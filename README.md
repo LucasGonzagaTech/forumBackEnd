@@ -25,17 +25,17 @@ Este é o backend de uma aplicação de fórum, desenvolvida com Node.js, Expres
 
 ### Passos para Instalação
 
-1. Clone o repositório:
+####1. Clone o repositório:
 
    ```bash
    git clone https://github.com/seu-usuario/forum-backend.git
 
-2.Instale as dependências:
+2. Instale as dependências:
 
 cd forum-backend
 npm install
 
-3.Configure as variáveis de ambiente:
+3. Configure as variáveis de ambiente:
 
 Crie um arquivo .env na raiz do projeto e defina as variáveis necessárias, como a URL do MongoDB.
 
@@ -44,7 +44,7 @@ Exemplo de .env:
 PORT=3000
 MONGODB_URI=mongodb://localhost/forum-app
 
-4.Inicie o servidor:
+4. Inicie o servidor:
 
 npm start
 
