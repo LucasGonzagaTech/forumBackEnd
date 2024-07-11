@@ -36,8 +36,9 @@ Este é o backend de uma aplicação de fórum, desenvolvida com Node.js, Expres
    git clone https://github.com/seu-usuario/forum-backend.git
 
 2. Instale as dependências:
-
-cd forum-backend&&npm install
+   
+   ```bash
+   - npm install
 
 3. Configure as variáveis de ambiente:
 
@@ -48,10 +49,10 @@ Exemplo de .env:
 PORT=3000
 MONGODB_URI=mongodb://localhost/forum-app
 
-4. Inicie o servidor:
+##Como utilizar
+###Inicie o servidor:
 
-npm start
-
+   - *npm start*
 
 ### Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
