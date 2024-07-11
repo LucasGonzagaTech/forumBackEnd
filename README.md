@@ -32,8 +32,7 @@ Este é o backend de uma aplicação de fórum, desenvolvida com Node.js, Expres
 
 2. Instale as dependências:
 
-cd forum-backend
-npm install
+cd forum-backend&&npm install
 
 3. Configure as variáveis de ambiente:
 
