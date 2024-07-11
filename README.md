@@ -25,7 +25,7 @@ Este é o backend de uma aplicação de fórum, desenvolvida com Node.js, Expres
 
 ### Passos para Instalação
 
-####1. Clone o repositório:
+1. Clone o repositório:
 
    ```bash
    git clone https://github.com/seu-usuario/forum-backend.git
