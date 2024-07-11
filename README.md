@@ -44,13 +44,13 @@ Este é o backend de uma aplicação de fórum, desenvolvida com Node.js, Expres
 
 Crie um arquivo .env na raiz do projeto e defina as variáveis necessárias, como a URL do MongoDB.
 
-Exemplo de .env:
+   Exemplo de .env:
 
-PORT=3000
-MONGODB_URI=mongodb://localhost/forum-app
+   PORT=3000
+   MONGODB_URI=mongodb://localhost/forum-app
 
-##Como utilizar
-###Inicie o servidor:
+## Como utilizar
+### Inicie o servidor:
 
    - *npm start*
 
